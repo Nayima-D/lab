@@ -1,0 +1,9 @@
+Variable - mails
+(Get IMAP) 
+“imap.gmail.com”  993
+nayimadesai@gmail.com  “teaxqxepodrhevobb”
+5
+mails 
+(For each)
+mails
+mail.Subject.ToString

@@ -1,0 +1,4 @@
+"You always wanted to study Automation Training. The materials are available in the following places: UiPath Blog, UiPath Academy."
+message.Split("."c)(0).Substring(message.IndexOf("study"))
+message.Split("."c)(1).Split(":"c)(1).Split(","c).[Select](Function(s) s.Trim()).ToList()
+String.Format("{0} from: {1}", study, String.Join("; ", places))

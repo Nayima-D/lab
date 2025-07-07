@@ -1,0 +1,5 @@
+"You must be very Brave!"
+"You must be very Generous!"
+"You must be very Wise!"
+"You must be very Bold!"
+"Can’t recognize that color!"

@@ -1,0 +1,3 @@
+Date.Today.Year()-intUserAge
+exception.Message
+"Name: "+UserName+vbCr+"Gender: "+UserGender+vbCr+"Year of Birth: "+intYearOfBirth.ToString+vbCr+"Error: "+inputError
