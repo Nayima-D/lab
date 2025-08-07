@@ -1,7 +1,7 @@
 Variable - mails
 (Get IMAP) 
 “imap.gmail.com”  993
-nayimadesai@gmail.com  “teaxqxepodrhevobb”
+nayimadesai@gmail.com  (“olbarhkwialfctba”)
 5
 mails 
 (For each)
